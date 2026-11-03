@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "titre": "Fiche de visite chantier ATTILA",
+  "majConfig": "2026-10-25",
+  "sections": {
+    "securite": {
+      "title": "Sécurité",
+      "items": [
+        { "key": "epi", "label": "Port des EPI complets (harnais, casque)" },
+        { "key": "ancrages", "label": "Ancrages conformes" },
+        { "key": "balisage", "label": "Balisage de la nacelle et du camion" },
+        { "key": "echelle", "label": "Échelle attachée" }
+      ]
+    },
+    "organisation": {
+      "title": "Organisation",
+      "items": [
+        { "key": "repartition", "label": "Répartition des tâches" },
+        { "key": "outils", "label": "Utilisation des bons outils" },
+        { "key": "rythme", "label": "Rythme de travail de chaque TTA" },
+        { "key": "produits", "label": "Utilisation conforme des produits" }
+      ]
+    }
+  },
+  "typesToiture": [
+    "Tuile mécanique",
+    "Tuile plate",
+    "Ardoise",
+    "Zinc",
+    "Bac acier",
+    "Fibro-ciment",
+    "Toiture terrasse / étanchéité",
+    "Chaume"
+  ],
+  "chantiers": []
+}
